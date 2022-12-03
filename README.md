@@ -10,7 +10,7 @@ Welcome to my repo, for first time I am trying Advent of Code and I am going thr
 | ------------------------------------------------| ------ | ------ |
 | [1 - Calorie Counting](./src/Day01/)            | ⭐️      | ⭐️      |
 | [2 - Rock Paper Scissors](./src/Day02/)         | ⭐️      | ⭐️      |
-| 3 - TBA                                         |          |         |
+| 3 - TBA                                         | ⭐️      | ⭐️      |
 | 4 - TBA                                             |        |        |
 | 5 - TBA                                             |        |        |
 | 6 - TBA                                             |        |        |
