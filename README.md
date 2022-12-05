@@ -11,7 +11,7 @@ Welcome to my repo, for first time I am trying Advent of Code and I am going thr
 | [1 - Calorie Counting](./src/Day01/)            | ⭐️      | ⭐️      |
 | [2 - Rock Paper Scissors](./src/Day02/)         | ⭐️      | ⭐️      |
 | [3 - Rucksack Reorganization](./src/Day03/)     | ⭐️      | ⭐️      |
-| 4 - TBA                                             |        |        |
+| [4 - Camp Cleanup](./src/Day04/)                | ⭐️      | ⭐️      |
 | 5 - TBA                                             |        |        |
 | 6 - TBA                                             |        |        |
 | 7 - TBA                                             |        |        |
